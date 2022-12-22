@@ -1,4 +1,4 @@
 1) install hardhat
-npm install --save-dev hardhat
+npm install
 2) run tests
 npx hardhat test
