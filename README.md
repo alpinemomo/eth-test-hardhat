@@ -1,3 +1,4 @@
-# Sample Hardhat Project
-
-npx hardhat help
+1) install hardhat
+npm install --save-dev hardhat
+2) run tests
+npx hardhat test
